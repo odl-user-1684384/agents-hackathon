@@ -3,6 +3,7 @@ __pycache__/
 .cache/
 experimental/
 tmp/
+/azure_ai_agent_service/
 # Playwright
 node_modules/
 /test-results/
