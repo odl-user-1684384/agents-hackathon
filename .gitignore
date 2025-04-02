@@ -1,0 +1,13 @@
+.env
+__pycache__/
+.cache/
+experimental/
+tmp/
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/tests
+
