@@ -2,11 +2,8 @@ ipykernel
 openai
 langchain
 langgraph
-llama-index
 pandas
-crewai
 python-dotenv
-crewai_tools==0.25.8
 langtrace-python-sdk
 botocore
 langchain_community
@@ -18,7 +15,10 @@ seaborn
 azure-ai-inference
 azure-identity
 azure-ai-projects
-semantic-kernel==1.26.1
+semantic-kernel==1.27.1
+semantic-kernel[mcp]
 azure-ai-ml
 google-api-python-client
 opentelemetry-exporter-otlp-proto-grpc
+pyodbc
+bs4
